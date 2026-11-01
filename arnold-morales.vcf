@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Morales;Arnold;;;
+FN:Arnold Morales
+TITLE:Software Engineer
+TEL;TYPE=CELL:+17022799544
+EMAIL;TYPE=INTERNET:arnold_morales@icloud.com
+ADR;TYPE=WORK:;;;Las Vegas;NV;;US
+NOTE:I build web apps and AI tools that help businesses run smoother.
+END:VCARD
